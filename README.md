@@ -9,7 +9,7 @@
 
 # 🚀 Introduction 
 This project analyzes the current landscape of Data Analyst job opportunities in India using publicly available job market data. It focuses on identifying key trends such as top-paying roles, in-demand skills, and geographic hotspots for data analytics careers.
-[View SQL Code Here](sql_project)
+By leveraging SQL queries to extract meaningful patterns, the project aims to provide actionable insights that can help job seekers, recruiters, and businesses understand the evolving analytics job market.
 
 # 🛠️ Tools I used 
 
